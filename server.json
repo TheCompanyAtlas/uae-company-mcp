@@ -1,0 +1,18 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.TheCompanyAtlas/uae-company",
+  "title": "UAE Company Registry",
+  "description": "UAE trade-licence company search by English/Arabic name, emirate, legal type and registration date.",
+  "version": "1.0.0",
+  "repository": {
+    "url": "https://github.com/TheCompanyAtlas/uae-company-mcp",
+    "source": "github"
+  },
+  "websiteUrl": "https://thecompanyatlas.com/mcp/connect",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://thecompanyatlas.com/mcp/uae"
+    }
+  ]
+}
