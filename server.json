@@ -3,7 +3,7 @@
   "name": "io.github.TheCompanyAtlas/uae-company",
   "title": "UAE Company Registry",
   "description": "UAE trade-licence company search by English/Arabic name, emirate, legal type and registration date.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "url": "https://github.com/TheCompanyAtlas/uae-company-mcp",
     "source": "github"
