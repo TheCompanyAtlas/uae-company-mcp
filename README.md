@@ -20,7 +20,7 @@ Add this URL as a custom MCP connector in Claude, Cursor, or any MCP-compatible 
 
 - Transport: Streamable HTTP
 - Auth: Google OAuth (sign in once, stays authorized)
-- Docs: [thecompanyatlas.com/mcp/connect](https://thecompanyatlas.com/mcp/connect)
+- Docs: [thecompanyatlas.com/tools/uae-company-registry](https://thecompanyatlas.com/tools/uae-company-registry)
 
 ## Tools
 

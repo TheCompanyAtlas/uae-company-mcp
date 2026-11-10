@@ -8,7 +8,7 @@
     "url": "https://github.com/TheCompanyAtlas/uae-company-mcp",
     "source": "github"
   },
-  "websiteUrl": "https://thecompanyatlas.com/mcp/connect",
+  "websiteUrl": "https://thecompanyatlas.com/tools/uae-company-registry",
   "remotes": [
     {
       "type": "streamable-http",
